@@ -1,5 +1,4 @@
 
-a_list=[]
 for i in range(2,1001):
     s=0
     for j in range(1,i):
